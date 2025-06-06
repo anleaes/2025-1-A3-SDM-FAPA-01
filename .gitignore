@@ -10,6 +10,9 @@ apps/migrations/*
 apps/movements/__pycache__/*
 apps/movements/migrations/*
 
+apps/artists/__pycache__/*
+apps/artists/migrations/*
+
 /apps/visitors/__pycache__/*
 /apps/visitors/migrations/*
 
