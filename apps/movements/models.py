@@ -6,5 +6,10 @@ class Movement(models.Model):
     description = models.TextField()
     dateFoundation = models.DateField()
     
+    class Meta:
+        verbose_name = 'Movimento'
+        verbose_name_plural = 'Movimentos'
+        ordering =['id']
+    
     def __str__(self):
         return self.name
