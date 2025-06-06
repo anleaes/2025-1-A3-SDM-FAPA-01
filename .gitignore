@@ -1,0 +1,12 @@
+# NOVO
+
+db.sqlite3
+
+museuapp/__pycache__/*
+/apps/visitors/__pycache__/*
+/apps/visitors/migrations/*
+
+/apps/orders/__pycache__/*
+/apps/orders/migrations/*
+
+.env
