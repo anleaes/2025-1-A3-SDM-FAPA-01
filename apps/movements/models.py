@@ -4,7 +4,7 @@ from django.db import models
 class Movement(models.Model):
     name = models.CharField(max_length=100)
     description = models.TextField()
-    dateFoundation = models.DateField()
+    yearFoundation = models.IntegerField(default=1)
     
     class Meta:
         verbose_name = 'Movimento'
