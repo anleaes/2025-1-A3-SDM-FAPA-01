@@ -4,7 +4,7 @@ from django.shortcuts import render
 
 from .models import Movement
 from rest_framework import viewsets
-from .serializer import MovementSerializer
+from .serializers import MovementSerializer
 
 class MovementViewSet(viewsets.ModelViewSet):
     queryset = Movement.objects.all()
