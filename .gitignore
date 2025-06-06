@@ -3,6 +3,13 @@
 db.sqlite3
 
 museuapp/__pycache__/*
+
+apps/__pycache__/*
+apps/migrations/*
+
+apps/movements/__pycache__/*
+apps/movements/migrations/*
+
 /apps/visitors/__pycache__/*
 /apps/visitors/migrations/*
 
