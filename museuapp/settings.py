@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'movements.apps.MovementsConfig',
     'artists.apps.ArtistsConfig',
+    'addresses.apps.AddressesConfig',
 ]
 
 MIDDLEWARE = [
