@@ -13,8 +13,8 @@ apps/movements/migrations/*
 apps/artists/__pycache__/*
 apps/artists/migrations/*
 
-apps/adresses/__pycache__/*
-apps/adresses/migrations/*
+apps/addresses/__pycache__/*
+apps/addresses/migrations/*
 
 /apps/visitors/__pycache__/*
 /apps/visitors/migrations/*
