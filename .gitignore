@@ -13,6 +13,9 @@ apps/movements/migrations/*
 apps/artists/__pycache__/*
 apps/artists/migrations/*
 
+apps/addresses/__pycache__/*
+apps/addresses/migrations/*
+
 /apps/visitors/__pycache__/*
 /apps/visitors/migrations/*
 
