@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'addresses.apps.AddressesConfig',
     'museums.apps.MuseumsConfig',
     'visitors.apps.VisitorsConfig',
+    'pieces.apps.PiecesConfig',
 ]
 
 MIDDLEWARE = [
