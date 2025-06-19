@@ -7,22 +7,28 @@ museuapp/__pycache__/*
 apps/__pycache__/*
 apps/migrations/*
 
+apps/addresses/__pycache__/*
+apps/addresses/migrations/*
+
+apps/artists/__pycache__/*
+apps/artists/migrations/*
+
+apps/events/__pycache__/*
+apps/events/migrations/*
+
 apps/movements/__pycache__/*
 apps/movements/migrations/*
 
 apps/museums/__pycache__/*
 apps/museums/migrations/*
 
-apps/artists/__pycache__/*
-apps/artists/migrations/*
+/apps/orders/__pycache__/*
+/apps/orders/migrations/*
 
-apps/addresses/__pycache__/*
-apps/addresses/migrations/*
+/apps/orderitems/__pycache__/*
+/apps/orderitems/migrations/*
 
 /apps/visitors/__pycache__/*
 /apps/visitors/migrations/*
-
-/apps/orders/__pycache__/*
-/apps/orders/migrations/*
 
 .env
