@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'pieces.apps.PiecesConfig',
     'events.apps.EventsConfig',
     'orders.apps.OrdersConfig',
+    'orderitems.apps.OrderitemsConfig',
 ]
 
 MIDDLEWARE = [
