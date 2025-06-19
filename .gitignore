@@ -28,6 +28,9 @@ apps/museums/migrations/*
 /apps/orderitems/__pycache__/*
 /apps/orderitems/migrations/*
 
+/apps/pieces/__pycache__/*
+/apps/pieces/migrations/*
+
 /apps/visitors/__pycache__/*
 /apps/visitors/migrations/*
 
