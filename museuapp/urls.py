@@ -24,4 +24,5 @@ urlpatterns = [
     path('enderecos/', include('addresses.urls', namespace='addresses')), 
     path('museus/', include('museums.urls', namespace='museums')),
     path('visitantes/', include('visitors.urls', namespace='visitors')),
+    path('obras/', include('pieces.urls', namespace='pieces')),
 ]
