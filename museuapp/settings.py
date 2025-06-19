@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'visitors.apps.VisitorsConfig',
     'pieces.apps.PiecesConfig',
     'events.apps.EventsConfig',
+    'orders.apps.OrdersConfig',
 ]
 
 MIDDLEWARE = [
