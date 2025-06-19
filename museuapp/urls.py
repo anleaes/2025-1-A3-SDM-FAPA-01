@@ -27,4 +27,5 @@ urlpatterns = [
     path('obras/', include('pieces.urls', namespace='pieces')),
     path('eventos/', include('events.urls', namespace='events')),
     path('pedidos/', include('orders.urls', namespace='orders')),
+    path('itens_pedido/', include('orderitems.urls', namespace='orderitems')),
 ]
