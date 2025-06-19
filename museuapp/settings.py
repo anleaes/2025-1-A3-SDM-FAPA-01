@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'museums.apps.MuseumsConfig',
     'visitors.apps.VisitorsConfig',
     'pieces.apps.PiecesConfig',
+    'events.apps.EventsConfig',
 ]
 
 MIDDLEWARE = [
