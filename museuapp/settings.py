@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'movements.apps.MovementsConfig',
     'artists.apps.ArtistsConfig',
     'addresses.apps.AddressesConfig',
+    'museums.apps.MuseumsConfig',
 ]
 
 MIDDLEWARE = [
