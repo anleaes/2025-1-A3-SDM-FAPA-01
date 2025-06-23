@@ -1,6 +1,6 @@
 from django.db import models
-from apps.artists.models import Artist
-from apps.movements.models import Movement
+from artists.models import Artist
+from movements.models import Movement
 
 # Create your models here.
 class Piece(models.Model):
