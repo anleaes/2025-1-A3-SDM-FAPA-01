@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'orders.apps.OrdersConfig',
     'orderitems.apps.OrderitemsConfig',
     'corsheaders',
+    'django_filters',
 ]
 
 MIDDLEWARE = [
