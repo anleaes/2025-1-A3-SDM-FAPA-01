@@ -9,7 +9,7 @@ class Piece(models.Model):
     artist = models.ForeignKey(Artist, on_delete=models.CASCADE)
     movement = models.ForeignKey(Movement, on_delete=models.SET_NULL, null=True)
     year = models.PositiveIntegerField()
-    # image = models.ImageField()
+    # image = models.ImageField('Foto', upload_to='photos')
     
     class Meta:
         verbose_name = 'Obra'
